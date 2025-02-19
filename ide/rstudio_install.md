@@ -10,7 +10,7 @@ RStudio is a popular Integrated Development Environment (IDE) specifically desig
     *   **On Windows:** select the base version of R
     *   **On macOS:** select the version based on your CPU architecture (Apple or Intel). If you are unsure about your hardware click the Apple logo in the top left corner and select "About This Mac". This will bring up a window that tells you the processor type.
 
-3.  **Download RStudio:** Visit the RStudio website ([https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)) and download the RStudio Desktop version for your operating system (Windows, macOS, or Linux).
+3.  **Download RStudio:** Visit the [RStudio website](https://posit.co/download/rstudio-desktop/) and download the RStudio Desktop version for your operating system (Windows, macOS, or Linux).
 
 4.  **Install RStudio:** Run the RStudio installer and follow the on-screen instructions.
 
