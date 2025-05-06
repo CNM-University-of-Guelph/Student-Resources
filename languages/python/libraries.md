@@ -42,7 +42,7 @@ Most modern development environments and platforms make this process straightfor
 
 When your projects start relying on multiple libraries — especially different versions — it becomes important to manage them carefully. This is where **virtual environments** come in. A virtual environment creates a self-contained space for a project, with its own set of installed packages. This helps you avoid conflicts between different projects and keeps your setup organized.
 
-If you’re not yet familiar with this concept, we recommend reading the [Virtual Environments](./virtual-environments.md) page to understand how they work and why they’re useful.
+If you’re not yet familiar with this concept, we recommend reading the [Virtual Environments](./virtual_environments.md) page to understand how they work and why they’re useful.
 
 
 ## Final Notes
