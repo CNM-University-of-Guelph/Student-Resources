@@ -40,6 +40,15 @@ It’s important to understand the distinction between Git and GitHub:
 You can use Git entirely on your own without GitHub, but GitHub becomes useful when you want to publish your code, work across devices, or collaborate with others.
 
 
+### **Installing Git**
+
+To install Git on your computer, follow the official installation instructions provided by the Git project: [Getting Started Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+This guide covers Windows, macOS, and Linux and will walk you through downloading and setting up Git for your system.
+
+After installing Git, you should also configure your name and email address, which will be associated with your commits. Follow the steps in the official guide: [First Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+
+
 ### **When Should You Use Git?**
 
 Even if you're just working on your own assignments or side projects, Git can be helpful:
@@ -51,13 +60,13 @@ Even if you're just working on your own assignments or side projects, Git can be
 If you're working in a group or submitting to GitHub, using Git is almost essential.
 
 
-### **How Do You Get Started with Git?**
+### **Getting Started**
 
-If you want to start using Git, you’ll first need to install it. See [Git Installation Instructions](../../git/git_install.md) for help setting it up on your computer.
-
-After installation, you’ll be able to:
+Once Git is installed and configured, you’ll be able to:
 - Initialize a repository in a project folder
 - Save changes with commits
 - Push/pull changes to/from GitHub if you're using one
 
 We recommend using Git through your IDE (such as VS Code), which has built-in support for Git. This allows you to stage, commit, and sync your work using simple visual tools instead of typing everything in the command line.
+
+To learn more about how to use Git in practice — including commits, branches, pushing, and merging — see the [Git Basics guide](./git_basics.md).
