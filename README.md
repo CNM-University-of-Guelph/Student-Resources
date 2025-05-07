@@ -26,4 +26,7 @@ If you are going to be working on a larger project you may want to learn about G
 - [Introduction to Git](git/git.md)
 - [Git Basics](git/git_basics.md)
 
+### Additional Support
+[Extra Resources](extra_resources.md) - If you'd like to go deeper or explore more hands-on material related to the topics in this repo, this page includes external tutorials and interactive exercises to help you build your skills.
+
 If you're not sure where to begin, start with [What is an IDE?](ide/ide.md) and move through the sections from there.
