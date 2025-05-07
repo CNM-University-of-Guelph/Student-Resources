@@ -1,13 +1,32 @@
 # Welcome to the CNM Computer Science Resource Page!
 
-This repo contains instructions and information for students that are new to computer/data science. The information is broken up into folders based on the topic. If you aren't sure where to start we would suggest first getting an [IDE](ide/ide.md) installed. After that you can find instructions for installing several different programing languages in the Languages folder. This should be all you need to get started!
+This repo contains instructions and information for students that are new to computer/data science. The information in this repository is organized into folders based on topic. You'll find pages covering how to install tools, write basic Python code, work with Git, and understand key programming concepts. Each section is designed to be beginner-friendly and can be explored in any order depending on what you're trying to learn. This should be all you need to get started!
 
-This repo also has a collection of other resources that may be of interest. Learning how to use package managers can be very helpful, especially if you will be working with Python. If you are going to be working on a larger project you may want to learn about Git, a powerful version control software that can help you manage your project.
+If you are going to be working on a larger project you may want to learn about Git, a powerful version control software that can help you manage your project.
 
-### Sections
+## Table of Contents
 
-- **IDE**: learn what an IDE is and how to install some common options.
-- **Languages**: language specific resources such as installation instructions
-- **Package Managers**: what are they and why should you be using them
-- **Git**: learn about Git, version control and GitHub basics
-- **Code Quality**: basics of testing, linting and style guides
+### IDE
+
+- [What is an IDE?](ide/ide.md)
+- [Installing VS Code](ide/vscode_install.md)
+- [Installing RStudio](ide/rstudio_install.md)
+
+### Languages: Python
+
+- [Installing Python](languages/python/install.md)
+- [Running Python Code](languages/python/running_python.md)
+- [Python Basics](languages/python/python_basics.md)
+- [Using Libraries](languages/python/libraries.md)
+- [Virtual Environments](languages/python/virtual_environments.md)
+- [Package Managers: pip, conda, Anaconda](languages/python/package_managers.md)
+
+### Git & Version Control
+
+- [Introduction to Git](git/git.md)
+- [Git Basics](git/git_basics.md)
+
+### Additional Support
+[Extra Resources](extra_resources.md) - If you'd like to go deeper or explore more hands-on material related to the topics in this repo, this page includes external tutorials and interactive exercises to help you build your skills.
+
+If you're not sure where to begin, start with [What is an IDE?](ide/ide.md) and move through the sections from there.
